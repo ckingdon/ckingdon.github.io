@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Clayton Kingdon"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
+  bio              : "Modeling Data Analyst"
   location         : "Ann Arbor, MI"
   employer         : "Cooperative Institute for Great Lakes Research"
   pubmed           : 
   googlescholar    : "https://goo.gl/sjQwHp"
-  email            :
+  email            : "clayton.c.kingdon@gmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
